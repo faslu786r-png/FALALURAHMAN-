@@ -1,0 +1,6 @@
+{
+  "name": "CyberAI Academy",
+  "description": "A comprehensive all-in-one learning platform covering Cybersecurity, Networking, Linux, Cloud Computing, Programming, AI, and Certification Preparation with practice exams, simulated labs, quizzes, and an AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
